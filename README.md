@@ -1,2 +1,6 @@
-# e-mold
-Money linker platform
+# EMOLD
+Electronic
+Money
+on
+Linker
+Device
